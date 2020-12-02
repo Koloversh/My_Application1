@@ -9,4 +9,7 @@
     <string name="incorrect">Неправильно</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
+    <string name="correct_answer">Правильный ответ:</string>
+    <string name="show_answer">Показать ответ</string>
+    <string name="message">Результаты:</string>
 </resources>
